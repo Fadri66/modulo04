@@ -1,0 +1,13 @@
+Hola! Estoy guardando comentarios de como guardar mi repo en Git
+1. Instalacion de Git
+2. Congifuracion de Git
+3. Crear un repo de Git
+4. Comandos:
+    git init : inicia un proyecto en git
+    git add : agrega el seguimiento
+    git commit -m "Inicio proyecto"
+5. Creamos un repo en GitHub
+6. Agregamos un repo remoto con remote add origin http://.....
+7. git push origin master
+
+*git remote -v es igual a http://GitHub.....
