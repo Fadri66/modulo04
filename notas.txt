@@ -8,6 +8,7 @@ Hola! Estoy guardando comentarios de como guardar mi repo en Git
     git commit -m "Inicio proyecto"
 5. Creamos un repo en GitHub
 6. Agregamos un repo remoto con remote add origin http://.....
+(git remote add origin https://github.com/Fadri66/modulo04.git)
 7. git push origin master
 
 *git remote -v es igual a http://GitHub.....
